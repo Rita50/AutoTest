@@ -3,3 +3,6 @@
 version1
 这是master上新增加的内容
 version1
+
+version2
+增加的版本2
